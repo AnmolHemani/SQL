@@ -1,0 +1,28 @@
+Q1. What is SQL , and sql vs dbms
+
+=> SQL is a programming language used to manage the database. It allows user to create, update, and delete the database.
+
+SQL vs DBMS :
+=> SQL interact with database whereas DBMS manage the database.
+=> SQL update the data whereas DBMS organize the data.
+
+Q2 what is database and why it's used
+
+=> It collects the data in a organized way and used to store large amount of data efficiently and it is scalable to handle and secure for accessing the information.
+
+Q3 Filesystem vs dbms
+
+=> Filesystem store data in file/folders whereas DBMS store data in a structured way.
+=> Filesystem has low security whereas DBMS has high security.
+=> Filesystem is slow for complex queries whereas DBMS is optimized and good for complex queries.
+=> Filesystem has a risk of data loss whereas DBMS is automated and efficient for recovery and backup the data.
+
+Q4 DBMS and its type
+
+=> It is a software that manage the database and allow user to create and manipulate the data.
+It's Types:
+=> Hierarchical DBMS : Data store in tree like structure.
+=> Network DBMS : Use a graph structure where each record has multiple parent and child for records.
+=> Relational DBMS : Store data in table using relation.
+=> Object Oriented DBMS : Store data in object.
+=> NoSQL DBMS : Non - relational database designed for unstructured and semi-structured data.
